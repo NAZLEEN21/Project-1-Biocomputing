@@ -1,0 +1,5 @@
+>AF195663.1 Pan troglodytes TNF gene promoter region
+>NT_033778.4 Drosophila melanogaster chromosome 2R
+>AB062426.1 Mus musculus Tnf gene for 5'-regulatory region, strain:C57BL/6
+>NM_012675.3 Rattus norvegicus tumor necrosis factor (Tnf), mRNA
+>NM_000594.4 Homo sapiens tumor necrosis factor (TNF), mRNA
